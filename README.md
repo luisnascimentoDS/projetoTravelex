@@ -9,6 +9,6 @@
 
 ```Modelo request Cliente, Gerente e Robo```
 
-http://localhost:8080/user/cliente/João Soares Silva
-http://localhost:8080/user/gerente/Luis Paulo Pereira do Nascimento
-http://localhost:8080/user/robo/Monique Araujo Soares Nascimento
+- http://localhost:8080/user/cliente/João Soares Silva
+- http://localhost:8080/user/gerente/Luis Paulo Pereira do Nascimento
+- http://localhost:8080/user/robo/Monique Araujo Soares Nascimento
